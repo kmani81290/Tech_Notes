@@ -1,0 +1,23 @@
+Introduction to Git 
+
+What is Git? 
+Git is a distributed version control system (DVCS) used to track changes in files and coordinate work among multiple people. It helps developers manage code changes and collaborate efficiently. 
+Key Concepts of Git 
+1. Version Control: Tracks file changes over time. 
+2. Distributed System: Each user has a full copy of the repository. 
+3. Repository: A project folder with tracking data. 
+4. Commit: A snapshot of changes. 
+5. Branch: Separate line of development. 
+6. Merge: Combines branches. 
+7. Remote Repository: Online shared repo like GitHub. 
+
+Common Git Commands 
+git init - Create a repository 
+git clone - Copy a repository 
+git add - Stage changes 
+git commit - Save changes 
+git push - Upload changes 
+git pull - Download updates 
+
+Why Use Git? 
+Git helps track changes, collaborate with teams, and manage different versions of files efficiently. 
